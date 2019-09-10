@@ -1,0 +1,19 @@
+h2 {
+  font-family: futura, sans-serif;
+  text-align: center;
+}
+
+h4 {
+  font-family: futura, sans-serif;
+  text-align: center;
+}
+
+h5 {
+  font-family: futura, sans-serif;
+  text-align: center;
+}
+
+.wrapper {
+  background-color: white;
+  padding: 15px;
+}
